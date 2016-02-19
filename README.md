@@ -31,4 +31,8 @@ set -g status-left '#(tmux-cpu-info)'
 
 Or for a more complete statusline like [the one I have](https://github.com/dickeyxxx/dotfiles/blob/master/home/.tmux.conf)
 
-Also check out [tmux-spotify-info](https://github.com/dickeyxxx/tmux-spotify-info)
+Other Tmux Plugins
+==================
+
+* [tmux-spotify-info](https://github.com/dickeyxxx/tmux-spotify-info)
+* [tmux-weather](https://github.com/dickeyxxx/tmux-weather)
